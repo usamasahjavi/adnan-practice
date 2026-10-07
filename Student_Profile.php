@@ -63,7 +63,7 @@ echo "<br>";
  /* arrays mai add karny ky liy ay remove karny ky liy elements ko "Pusp","Pop","Shift","Unshift" use kiya jaty hain almost */
  /* Asspciative arrays mai value ko keys and pairs mai dikhya jata ha jasy ky */
  $ClassIncharge =[
-    "7th" => "Qari Sb",
+    "6th & 7th" => "Qari Sb",
     "9th & 10th" => "Rabnawaz Sb",
     "2nd & 3rd" => "Waseem Sb",
  ];
